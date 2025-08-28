@@ -48,4 +48,4 @@ This covers most of the important KPI's (Key Performance Index) of an e-commerce
 
 Final Dashboard-
 
-![image alt] (https://github.com/rathi-saurabh/Ecom-SalesAnalytics_on-BQ-DataStudio/blob/7dc5817ba3f3d0692a69a58811d367d4e39dcbc0/E-Commerce_Dashboard.pdf) 
+![image alt] (https://github.com/rathi-saurabh/Ecom-SalesAnalytics_on-BQ-DataStudio/blob/0e6fd84e32af00de0efd6390c129fa250f395b0b/E-Commerce_Dashboard.jpg) 
